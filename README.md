@@ -38,18 +38,33 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unreal-engine&logoColor=white&style=for-the-badge" />
   <img alt="Effect House" src="https://img.shields.io/badge/Effect_House-FFCC00?logo=mobcrush&logoColor=white&style=for-the-badge" />
-  <br>
-  <em>Key Libraries & SDKs:</em>
-  <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia-000000?logo=vuforia&logoColor=white&style=for-the-badge" />
+</p>
+
+<p><strong>Key Libraries & SDKs:</strong></p>
+<p>
+  <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia-00A651?logo=vuforia&logoColor=white&style=for-the-badge" />
   <img alt="AR Foundation" src="https://img.shields.io/badge/AR_Foundation-339933?logo=unity&logoColor=white&style=for-the-badge" />
   <img alt="Meta XR" src="https://img.shields.io/badge/Meta_XR-00BFFF?logo=facebook&logoColor=white&style=for-the-badge" />
 </p>
+
+---
 
 ### 🗄️ Backend & Databases
 <p>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
-###
+### 🛠️ Tools & Platforms
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
+  <img alt="AppSheet" src="https://img.shields.io/badge/AppSheet-2E6DE0?logo=google&logoColor=white&style=for-the-badge" />
+  <img alt="Apps Script" src="https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=googlescripts&logoColor=white&style=for-the-badge" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+</p>
