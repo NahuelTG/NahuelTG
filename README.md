@@ -22,6 +22,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
+
 ### 💻 Frontend & Web
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
@@ -32,6 +33,7 @@
   <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ### 🌐 Immersive Experience (AR/VR)
 <p>
@@ -47,7 +49,6 @@
   <img alt="Meta XR" src="https://img.shields.io/badge/Meta_XR-00BFFF?logo=facebook&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
 ### 🗄️ Backend & Databases
 <p>
@@ -55,6 +56,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ### 🛠️ Tools & Platforms
 <p>
