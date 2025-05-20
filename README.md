@@ -12,9 +12,6 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 
 ---
-
-### 💫 About Me
-
 ### 💫 About Me
 
 🚀 Developer with a passion for turning ideas into immersive digital experiences. I specialize in building scalable web applications with modern frameworks like React, TypeScript, and Astro, while also exploring the creative frontier of AR/VR using Unity and Unreal Engine.
@@ -83,9 +80,5 @@ Let’s build something meaningful together.
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6" alt="Profile Visit Counter"/>
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6)](https://visitcount.itsvg.in)
 
