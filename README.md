@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NahuelTG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=mar-vall&theme=nightowl&hide_border=false)
 </div>
 
 ###
