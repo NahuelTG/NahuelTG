@@ -15,10 +15,11 @@ A passionate developer with a strong foundation in full-stack web technologies a
 ### 💫 About Me
 
 🚀 I'm a developer blending web tech with immersive AR/VR. From React apps to Unity-powered experiences, I bring ideas to life.
+
 🎓 As Vice President at SCESI, I lead impactful projects and events like FLISoL, uniting tech and community.
+
 💡 Passionate about scalable code, creative problem-solving, and building what matters.
 
-Let’s build something meaningful together.
 ---
 
 ### 📊 GitHub Stats
@@ -77,7 +78,6 @@ Let’s build something meaningful together.
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=googlescripts&logoColor=white&style=for-the-badge)
 ![AppSheet](https://img.shields.io/badge/AppSheet-2E6DE0?logo=google&logoColor=white&style=for-the-badge)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6)](https://visitcount.itsvg.in)
 
