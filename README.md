@@ -4,7 +4,12 @@
 A passionate developer with a strong foundation in full-stack web technologies and immersive experiences (AR/VR). I specialize in scalable frontend architectures with JavaScript and have hands-on experience with game engines like Unity and Unreal. I thrive on building real-world applications and leading collaborative teams.
 </p>
 
-<p align="center"><strong>📬 Contact me: nahueltorrezg@gmail.com</strong></p>
+<p align="center">
+  <a href="mailto:nahueltorrezg@gmail.com" style="text-decoration: none;">
+    <strong>📬 Contactame: nahueltorrezg@gmail.com</strong>
+  </a>
+</p>
+
 
 ---
 
@@ -19,7 +24,7 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NahuelTG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=NahuelTG&theme=nightowl&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </p>
@@ -72,14 +77,6 @@ A passionate developer with a strong foundation in full-stack web technologies a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=googlescripts&logoColor=white&style=for-the-badge)
 ![AppSheet](https://img.shields.io/badge/AppSheet-2E6DE0?logo=google&logoColor=white&style=for-the-badge)
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=NahuelTG&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
