@@ -6,7 +6,7 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 <p align="center">
   <a href="mailto:nahueltorrezg@gmail.com" style="text-decoration: none;">
-    <strong>📬 Contactame: nahueltorrezg@gmail.com</strong>
+    <strong>📬 Email: nahueltorrezg@gmail.com</strong>
   </a>
 </p>
 
@@ -15,16 +15,19 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 ### 💫 About Me
 
-🔭 Currently building projects with React, Node.js, and TypeScript.  
-🌱 Learning AI, system design, and clean architecture.  
-💬 Ask me about web dev, JS/TS, or creative coding ideas.  
-🎯 Goal: Keep growing as a full-stack developer and contribute to meaningful, user-focused solutions.  
+### 💫 About Me
 
+🚀 Developer with a passion for turning ideas into immersive digital experiences. I specialize in building scalable web applications with modern frameworks like React, TypeScript, and Astro, while also exploring the creative frontier of AR/VR using Unity and Unreal Engine.
+🧠 With a strong foundation in systems engineering and hands-on experience across both frontend and 3D environments, I thrive in collaborative teams, lead with empathy, and embrace challenges with curiosity.
+🎓 As Academic Director and now Vice President at SCESI (Scientific Society of Systems Engineering), I’ve led initiatives that doubled participation, organized high-impact tech events like FLISoL, and managed a portfolio of innovative academic and community-driven projects.
+💼 My work spans software automation, immersive education apps, and full-scale project development—from web landing pages to VR showcases featured in cultural events with 500+ attendees.
+
+Let’s build something meaningful together.
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahuelTG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=NahuelTG&theme=nightowl&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </p>
@@ -80,6 +83,9 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 ---
 
-<p align="center">[![](https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6)](https://visitcount.itsvg.in)</p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6" alt="Profile Visit Counter"/>
+  </a>
+</p>
 
-<!-- Proudly enhanced with Copywriter GPT ❤️ -->
