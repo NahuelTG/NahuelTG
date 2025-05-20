@@ -14,10 +14,9 @@ A passionate developer with a strong foundation in full-stack web technologies a
 ---
 ### 💫 About Me
 
-🚀 Developer with a passion for turning ideas into immersive digital experiences. I specialize in building scalable web applications with modern frameworks like React, TypeScript, and Astro, while also exploring the creative frontier of AR/VR using Unity and Unreal Engine.
-🧠 With a strong foundation in systems engineering and hands-on experience across both frontend and 3D environments, I thrive in collaborative teams, lead with empathy, and embrace challenges with curiosity.
-🎓 As Academic Director and now Vice President at SCESI (Scientific Society of Systems Engineering), I’ve led initiatives that doubled participation, organized high-impact tech events like FLISoL, and managed a portfolio of innovative academic and community-driven projects.
-💼 My work spans software automation, immersive education apps, and full-scale project development—from web landing pages to VR showcases featured in cultural events with 500+ attendees.
+🚀 I'm a developer blending web tech with immersive AR/VR. From React apps to Unity-powered experiences, I bring ideas to life.
+🎓 As Vice President at SCESI, I lead impactful projects and events like FLISoL, uniting tech and community.
+💡 Passionate about scalable code, creative problem-solving, and building what matters.
 
 Let’s build something meaningful together.
 ---
