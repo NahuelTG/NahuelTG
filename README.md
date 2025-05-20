@@ -19,9 +19,9 @@ A passionate developer with a strong foundation in full-stack web technologies a
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mar-vall&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mar-vall&theme=nightowl&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-vall&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NahuelTG&theme=nightowl&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelTG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </p>
 
 ---
@@ -76,13 +76,13 @@ A passionate developer with a strong foundation in full-stack web technologies a
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mar-vall&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NahuelTG&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
-<p align="center">[![](https://visitcount.itsvg.in/api?id=mar-vall&icon=0&color=6)](https://visitcount.itsvg.in)</p>
+<p align="center">[![](https://visitcount.itsvg.in/api?id=NahuelTG&icon=0&color=6)](https://visitcount.itsvg.in)</p>
 
 <!-- Proudly enhanced with Copywriter GPT ❤️ -->
